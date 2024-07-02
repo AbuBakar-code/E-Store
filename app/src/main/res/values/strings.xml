@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E Store</string>
+    <string name="intro_title">Step into your <font color="#6033ba">style\n A world of shoes</font></string>
+    <string name="intro_text">Browse the latest style form top brands\nGet personalised recommendations\nEnjoy fast, free shipping</string>
+    <string name="intro_btn_txt">Let\'s Get Started</string>
+    <string name="intro_signIn">Already have an account?<font color="#6033ba"> SignIn</font></string>
+</resources>

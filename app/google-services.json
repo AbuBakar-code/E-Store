@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908624653163",
+    "project_id": "e-store-c821d",
+    "storage_bucket": "e-store-c821d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908624653163:android:53e3e82cc4e1043a67fa2e",
+        "android_client_info": {
+          "package_name": "com.example.estore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKcwCwn_cJVcOkS4kp1zWPmroPtto_og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
